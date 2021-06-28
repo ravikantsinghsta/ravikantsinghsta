@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ravikantsinghsta.github.io/](https://ravikantsinghsta.github.io/)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python** 🐍
 
 - 📫 How to reach me **ravikantsinghsta@gmail.com**
 
