@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravikant Singhsta</h1>
+<h1 align="center">Haanji Hello 👋, I'm Ravikant Singhsta</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <h4 align="center">A budding computer geek with an aspiration to work in related fields and to realize the challenges present.</h4>
 
