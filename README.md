@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://ravikantsinghsta.github.io/](https://ravikantsinghsta.github.io/)
+- 👨‍💻 All of my projects are available at [https://ravikantsinghsta.github.io/](https://ravikantsinghsta.github.io)
 
 - 💬 Ask me about **Python** 🐍
 
